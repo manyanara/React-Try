@@ -3,8 +3,7 @@ import ContactForm from '../components/ContactForm';
 export default function Contact() {
     return (
       <div>
-        <h1>Contact Page</h1>
-         instert form here 
+        <h1>Talk to Me!</h1>
          <ContactForm />
       </div>
     );
