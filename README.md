@@ -1,8 +1,20 @@
 # React + Vite
+Personal Portfolio
+Welcome to my personal portfolio website! This project is built using React, showcasing my skills, projects, and experiences. Feel free to explore!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Home: lists 4 of my projects with links to their github repository.
+About: not fully set up yet.
+Contact: Provide ways for visitors to get in touch with you, such as through a contact form or links to your social media profiles.
 
-Currently, two official plugins are available:
+# Usage
+clone github repository to your local machine, install all dependencies and run "npm run build" or naviage to this link
+# Deployment Link:
+https://main--manyaportfolio.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Technologies Used
+React
+HTML
+CSS
+JavaScript
